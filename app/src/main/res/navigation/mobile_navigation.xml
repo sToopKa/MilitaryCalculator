@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.sto_opka91.militarydirectory.ui.home.HomeFragment"
+        android:label="@string/menu_kontractniki"
+        tools:layout="@layout/fragment_fp2023" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.sto_opka91.militarydirectory.ui.vt4.VT4Fragment"
+        android:label="@string/menu_vt4"
+        tools:layout="@layout/fragment_vt4" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.sto_opka91.militarydirectory.ui.kursant.KursantFragment"
+        android:label="@string/menu_kurasnt"
+        tools:layout="@layout/fragment_kursant" />
+
+    <fragment
+        android:id="@+id/nav_single_lesson"
+        android:name="com.sto_opka91.militarydirectory.ui.single_lesson.SingleLessonFragment"
+        android:label="@string/menu_single_lesson"
+        tools:layout="@layout/fragment_single_lesson" />
+
+
+</navigation>

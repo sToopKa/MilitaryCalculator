@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">MilitaryDirectory</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="edit_age_fp2023">Введите свой возраст</string>
+    <string name="edit_kategory_fp2023">Введите категорию, к которой Вы относитесь</string>
+    <string name="kategory">Категория</string>
+    <string name="your_genre">Ваш пол</string>
+    <string name="result">Результаты</string>
+    <string name="less_1_fp2023">Упражнение №1. Быстрота, ловкость</string>
+    <string name="less_1_fp2023_for_2">Упражнение №1. Быстрота, ловкость либо выносливость</string>
+    <string name="less_1_fp2023_hint">Упражнение 1</string>
+    <string name="less_2_fp2023">Упражнение 2. Сила</string>
+    <string name="less_2_fp2023_for_2">Упражнение 2. Сила либо выносливость</string>
+    <string name="less_2_hint">Упражнение 2</string>
+    <string name="less_3_fp2023">Упражнение 3. Выносливость</string>
+    <string name="less_3_fp2023_for_2">Упражнение 3. СФУ</string>
+    <string name="less_3_hint">Упражнение 3</string>
+    <string name="less_4_fp2023">Упражнение 4. СФУ</string>
+    <string name="less_4_fp2023_2">Упражнение. СФУ</string>
+    <string name="less_4_hint">Упражнение 4</string>
+    <string name="your_grade">Расчет результатов сдачи</string>
+    <string name="calculate_ball">Рассчитать баллы</string>
+    <string name="your_age">Ваш возраст</string>
+    <string name="less_4_vt4">Упражнение №4. Полоса.</string>
+    <string name="min">мин</string>
+    <string name="cek">сек</string>
+    <string name="o_cebe">Заполните данные о себе</string>
+    <string name="no_lessons">Выберите упражнения</string>
+    <string name="no_result">Заполните результаты</string>
+    <string name="your_weight">Ваш вес</string>
+    <string name="category_describe1">категория № 1 – военнослужащие, проходящие военную службу в основных подразделениях и подразделениях обеспечения воинских частей видов Вооруженных Сил, родов войск Вооруженных Сил и не входящих в них, кроме военнослужащих подразделений, указанных в категориях № 2 и 3;
+</string>
+    <string name="category_describe2">
+категория № 2 – военнослужащие, проходящие военную службу в подразделениях: топогеодезических, метеорологических (гидрометеорологических), материально-технического обеспечения, медицинских, предупреждения о ракетном нападении и разведки космической обстановки, испытательных центров (полигонов), аэродромно-технического обеспечения, переменный состав учебных воинских частей;
+</string>
+    <string name="category_describe3">
+категория № 3 – военнослужащие, проходящие военную службу в органах военного управления, управлениях соединений, управлениях воинских частей, управлениях батальонов (им равных), научных организациях Вооруженных Сил (военных учебных центрах), военных представительствах, главных центрах (центрах, арсеналах, базах, отделах) видов обеспечения, центрах управления, лабораториях специального контроля, вузах на должностях постоянного и переменного состава (за исключением курсантов), учебных воинских частях на должностях постоянного состава, на пунктах отбора на военную службу по контракту, в военных комиссариатах, медицинских организациях Вооруженных Сил, военных оркестрах (ансамблях), фельдъегерской почтовой службе.
+Военнослужащие подразделений, не входящих в категории № 1 и 2, относятся к категории № 3
+</string>
+    <string name="check_grenade">Попал ли гранатой?</string>
+    <string name="balls">Баллы</string>
+    <string name="kol_vo_let">кол-во лет</string>
+    <string name="what_kurs">На каком курсе Вы учитесь?</string>
+    <string name="what_kurs_short">Ваш курс</string>
+    <string name="lesson_5_title">Упражнение 5.СФУ</string>
+    <string name="lesson_5_hint">Упражнение 5</string>
+    <string name="menu_kontractniki">Расчет ФП контрактники</string>
+    <string name="menu_vt4">Расчет ФП ВТ-4</string>
+    <string name="menu_kurasnt">Расчет ФП курсанты</string>
+    <string name="title_balls">Баллы</string>
+    <string name="menu_single_lesson">Рассчет 1-го упражнения</string>
+    <string name="hint_single_strainght">Сила</string>
+    <string name="strainght_lessons">Упражнения на силу</string>
+    <string name="lessons_speed_agil_stam">Упражнения на быстроту, ловкость, выносливость</string>
+    <string name="til_speed_agil_stam">Быстрота, ловкость, выносливость</string>
+    <string name="sfu_lessons">Упражнения СФУ</string>
+    <string name="sfu">СФУ</string>
+    <string name="result_lesson_1">Введите результат-то 1 упр</string>
+    <string name="result_lesson_2">Введите результат-то 2 упр</string>
+    <string name="result_lesson_3">Введите результат-то 3 упр</string>
+</resources>

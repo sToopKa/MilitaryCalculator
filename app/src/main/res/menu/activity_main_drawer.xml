@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_fp"
+            android:title="@string/menu_kontractniki" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_vt4"
+            android:title="@string/menu_vt4" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_kursant"
+            android:title="@string/menu_kurasnt" />
+        <item
+            android:id="@+id/nav_single_lesson"
+            android:icon="@drawable/ic_lesson"
+            android:title="@string/menu_single_lesson"
+
+            />
+
+
+    </group>
+</menu>
